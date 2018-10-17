@@ -1,0 +1,15 @@
+{
+  "name": "less-plugin-incremental",
+  "version": "0.1.0",
+  "description": "incremental rebuild for less",
+  "main": "./lib/index.js",
+  "keywords": [
+    "less",
+    "plugin",
+    "incremental",
+    "cache",
+    "build"
+  ],
+  "author": "Michael Röber",
+  "license": "MIT"
+}
